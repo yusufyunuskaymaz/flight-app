@@ -195,5 +195,5 @@ LOGGING = {
     },
 }
 # handlers iki farklı handler işlemi yapan loji kuran 
-console ve file için i,ki farklı handler kullanılmış
-consolda stream handler 
+# console ve file için i,ki farklı handler kullanılmış
+# consolda stream handler 
